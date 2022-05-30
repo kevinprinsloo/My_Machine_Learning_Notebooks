@@ -3,4 +3,4 @@
 
 **Table of Contents **
 
-1. [Linear Regression](#how-to-keep-this-index-up-to-date)
+1. [Linear Regression](#Linear_Regression)
