@@ -40,7 +40,7 @@
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/kevinprinsloo/.github/stargazers
+[stars-url]: https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
