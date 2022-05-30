@@ -8,6 +8,8 @@
 
 
 # My_Machine_Learning_Notebooks
+<br />
+** In development - additional noetbooks still needed to be added
 
 
 ### Table of Contents 
@@ -38,8 +40,8 @@
 [stars-url]: https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/stargazers
 [issues-shield]: https://img.shields.io/github/issues/kevinprinsloo/My_Machine_Learning_Notebooks.svg?style=for-the-badge
 [issues-url]: https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/issues
-[license-shield]: https://img.shields.io/github/license/kevinprinsloo/My_Machine_Learning_Notebooks.svg?style=for-the-badge
-[license-url]: https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/CognitiveNeuroLab/Index_overview_CNL.svg?style=for-the-badge
+[license-url]: https://github.com/CognitiveNeuroLab/Index_overview_CNL/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/kevin-prinsloo-phd-ba251823/
 [product-screenshot]: images/screenshot.png
