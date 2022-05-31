@@ -9,7 +9,7 @@
 
 # My_Machine_Learning_Notebooks
 <br />
-** In development - additional noetbooks still needed to be added
+** In development - additional noetbooks still need to be added
 
 
 ### Table of Contents 
