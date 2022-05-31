@@ -15,7 +15,7 @@
 ### Table of Contents 
 
 1. [Linear Regression](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Linear_Regression)
-
+2. [Titanic_Kaggle_Challenge_v1](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Titanic_Kaggle_Challenge_v1)
 
 
 
