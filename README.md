@@ -17,7 +17,8 @@
 1. [Linear Regression](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Linear_Regression)
 2. [Logistic Regression](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Logistic_Regression)
 3. [Titanic_Kaggle_Challenge_v1](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Titanic_Kaggle_Challenge_v1)
-
+3. [K-Nearest-Neighbors](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/K-Nearest-Neighbors)
+4. [Natural_Language_Processing](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Natural_Language_Processing)
 
 
 <br />
