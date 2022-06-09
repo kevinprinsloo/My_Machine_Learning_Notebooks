@@ -14,11 +14,13 @@
 
 ### Table of Contents 
 
-1. [Linear Regression](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Linear_Regression)
-2. [Logistic Regression](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Logistic_Regression)
-3. [Titanic_Kaggle_Challenge_v1](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Titanic_Kaggle_Challenge_v1)
-3. [K-Nearest-Neighbors](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/K-Nearest-Neighbors)
-4. [Natural_Language_Processing](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Natural_Language_Processing)
+1. [Advanced EDA](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Advanced%20_EDA)
+2. [Linear Regression](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Linear_Regression)
+3. [Logistic Regression](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Logistic_Regression)
+4. [Titanic_Kaggle_Challenge_v1](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Titanic_Kaggle_Challenge_v1)
+5. [K-Nearest-Neighbors](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/K-Nearest-Neighbors)
+6. [Natural_Language_Processing](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Natural_Language_Processing)
+7. [Decision_Trees_and_Random_Forests](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Decision_Trees_and_Random_Forests)
 
 
 <br />
