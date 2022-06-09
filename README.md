@@ -20,6 +20,7 @@
 4. [Titanic_Kaggle_Challenge_v1](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Titanic_Kaggle_Challenge_v1)
 5. [K-Nearest-Neighbors](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/K-Nearest-Neighbors)
 6. [Natural_Language_Processing](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Natural_Language_Processing)
+7. [Decision_Trees_and_Random_Forests](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Decision_Trees_and_Random_Forests)
 
 
 <br />
