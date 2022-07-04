@@ -22,6 +22,8 @@
 6. [Natural_Language_Processing](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Natural_Language_Processing)
 7. [Decision_Trees_and_Random_Forests](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Decision_Trees_and_Random_Forests)
 
+## Almost completed
+8. [Full_End_to_End_ML_Project_House_Prices](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Full_End_to_End_ML_Project_House_Prices)
 
 <br />
 <br />
