@@ -14,16 +14,16 @@
 
 ### Table of Contents 
 
-1. [Advanced EDA](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Advanced%20_EDA)
-2. [Linear Regression](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Linear_Regression)
-3. [Logistic Regression](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Logistic_Regression)
-4. [Titanic_Kaggle_Challenge_v1](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Titanic_Kaggle_Challenge_v1)
-5. [K-Nearest-Neighbors](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/K-Nearest-Neighbors)
-6. [Natural_Language_Processing](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Natural_Language_Processing)
+>> [Advanced EDA](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Advanced%20_EDA)
+>> [Linear Regression](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Linear_Regression)
+>> [Logistic Regression](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Logistic_Regression)
+>> [Titanic_Kaggle_Challenge_v1](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Titanic_Kaggle_Challenge_v1)
+>> [K-Nearest-Neighbors](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/K-Nearest-Neighbors)
+>> [Natural_Language_Processing](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Natural_Language_Processing)
 
 
 ## Almost completed
-8. [Full_End_to_End_ML_Project_House_Prices](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Full_End_to_End_ML_Project_House_Prices)
+>> [Full_End_to_End_ML_Project_House_Prices](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Full_End_to_End_ML_Project_House_Prices)
 
 ## Hidden:
 [Decision_Trees_and_Random_Forests](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Decision_Trees_and_Random_Forests)
