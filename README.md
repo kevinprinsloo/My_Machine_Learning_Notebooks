@@ -27,7 +27,7 @@
 * [K-Nearest-Neighbors](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/K-Nearest-Neighbors)
 * [Natural_Language_Processing](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Natural_Language_Processing)
 
-### Almost completed - ***Main porfolio project***
+### ***Main porfolio project***
 * [Full_End_to_End_ML_Project_House_Prices](https://github.com/kevinprinsloo/My_Machine_Learning_Notebooks/tree/master/Full_End_to_End_ML_Project_House_Prices)
 
 ### Hidden:
