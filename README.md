@@ -1,11 +1,12 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+![GitHub forks](https://img.shields.io/github/forks/kevinprinsloo/My_Machine_Learning_Notebooks?color=%2300ff00&logo=Github&logoColor=%23ff0000&style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/kevinprinsloo/My_Machine_Learning_Notebooks?logo=github&logoColor=%23ff0000&style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/kevinprinsloo/My_Machine_Learning_Notebooks?color=%238B0000&logo=github&logoColor=%23ff0000&style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/kevinprinsloo/My_Machine_Learning_Notebooks/total?color=%23023020&logo=github&logoColor=%23ff0000&style=flat-square)
+![GitHub watchers](https://img.shields.io/github/watchers/kevinprinsloo/My_Machine_Learning_Notebooks?logo=github&logoColor=3ff0000&style=flat-square)
 [![MIT License][license-shield]][license-url]
+
+![Twitter Follow](https://img.shields.io/twitter/follow/KevinD_P?color=%23&logo=twitter&style=flat-square)
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 # 🤖⚡ My_Machine_Learning_Notebooks
 <br />
