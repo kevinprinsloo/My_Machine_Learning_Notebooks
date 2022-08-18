@@ -3,7 +3,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/kevinprinsloo/My_Machine_Learning_Notebooks?color=%238B0000&logo=github&logoColor=%23ff0000&style=flat-square)
 ![GitHub all releases](https://img.shields.io/github/downloads/kevinprinsloo/My_Machine_Learning_Notebooks/total?color=%23023020&logo=github&logoColor=%23ff0000&style=flat-square)
 ![GitHub watchers](https://img.shields.io/github/watchers/kevinprinsloo/My_Machine_Learning_Notebooks?logo=github&logoColor=3ff0000&style=flat-square)
-[![MIT License][license-shield]][license-url]
+![GitHub](https://img.shields.io/github/license/kevinprinsloo/My_Machine_Learning_Notebooks?logo=github&style=flat-square)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/KevinD_P?color=%23&logo=twitter&style=flat-square) [![LinkedIn][linkedin-shield]][linkedin-url] <a href="https://medium.com/@kevinprinsloo" target="_new"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="" /></a>
 
