@@ -1,14 +1,3 @@
-![GitHub forks](https://img.shields.io/github/forks/blenheimchalcot//blenheimchalcot/GenAI-Advanced-Practitioner/tree/main?color=%2300ff00&logo=Github&logoColor=%23ff0000&style=flat-square)
-![GitHub language count](https://img.shields.io/github/languages/count//blenheimchalcot/GenAI-Advanced-Practitioner/tree/main?logo=github&logoColor=%23ff0000&style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/blenheimchalcot/GenAI-Advanced-Practitioner?color=%238B0000&logo=github&logoColor=%23ff0000&style=flat-square)
-![GitHub all releases](https://img.shields.io/github/downloads//blenheimchalcot/GenAI-Advanced-Practitioner/tree/main/total?color=%23023020&logo=github&logoColor=%23ff0000&style=flat-square)
-![GitHub watchers](https://img.shields.io/github/watchers/blenheimchalcot/GenAI-Advanced-Practitioner/tree/main?logo=github&logoColor=3ff0000&style=flat-square)
-![GitHub](https://img.shields.io/github/license/blenheimchalcot/GenAI-Advanced-Practitioner/tree/main?logo=github&style=flat-square)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkevinprinsloo%2FMy_Machine_Learning_Notebooks%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![Twitter Follow](https://img.shields.io/twitter/follow/KevinD_P?color=%23&logo=twitter&style=flat-square) [![LinkedIn][linkedin-shield]][linkedin-url] <a href="https://medium.com/@kevinprinsloo" target="_new"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="" /></a>
-
 # 🤖⚡ My_Machine_Learning_Notebooks
 <br />
 
